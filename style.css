@@ -4,3 +4,11 @@ body{
 	font-family: sans-serif;
 	text-align: center;
 }
+
+#formBody {
+	background-color: #ebe7db;
+}
+
+h2 {
+	border: solid;
+}
